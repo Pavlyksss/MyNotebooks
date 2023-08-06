@@ -14,6 +14,7 @@ class ContactsViewController : UIViewController {
         super.viewDidLoad()
         
         title = "Contacts"
+        let name = "okey"
     }
     
   
